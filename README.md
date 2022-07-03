@@ -1,4 +1,5 @@
-# Udemy-Advanced-MySQL
+# Advanced SQL: MySQL Data Analysis & Business Intelligence
+
 
 You’ve just been hired as an eCommerce Database Analyst for Maven Fuzzy Factory, an online retailer which has just launched their first product.
 
