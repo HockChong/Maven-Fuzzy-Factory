@@ -35,6 +35,7 @@ SELECT
 FROM website_sessions
 WHERE created_at < '2012-04-12'
 GROUP BY utm_source, utm_campaign, http_referer
+ORDER BY number_of_sessions DESC
 ```
 
-![image](https://user-images.githubusercontent.com/64703507/177377418-5f3425e9-29f1-4be1-b3f5-1a9090f9a570.png)
+![image](https://user-images.githubusercontent.com/64703507/177377849-d3e890d1-5ef3-4a30-8f63-03bf590b9f3d.png)
